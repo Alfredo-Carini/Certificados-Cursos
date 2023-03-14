@@ -9,3 +9,5 @@
 - **Hacking etico Of & Def - ExorciseThat** 2022, duracion 20 Hs
 
 - **Ethical Hacking Red Team 3º edicion - Hacker Mentor** 2023, duracion  8 Hs
+
+- **C1b3rwall Academy 2021 - 2022 Diploma** 2023, duracion  450 Hs

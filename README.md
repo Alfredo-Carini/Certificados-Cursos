@@ -13,3 +13,5 @@
 - **C1b3rwall Academy 2021 - 2022 Diploma** 2023, duracion  450 Hs
 
 - **Apple Certified Mac &b  iOS Specialist - Apple Inc** 2012
+
+ **2º Congreso Internacional de Delitos Asistidos Tecnologicamente - Policia GCBA / SLCC** 2023

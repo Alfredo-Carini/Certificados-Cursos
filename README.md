@@ -16,7 +16,7 @@
 
 - **2º Cumbre Asuntos Ciberneticos - Ministerio Seguridad de la Nacion** 2023, duracion 18 Hs
 
- **2º Congreso Internacional de Delitos Asistidos Tecnologicamente - Policia GCBA / SLCC** 2023
+- **2º Congreso Internacional de Delitos Asistidos Tecnologicamente - Policia GCBA / SLCC** 2023
 
 - **Critical Infraestucture 101 - CISA** 2023
 
